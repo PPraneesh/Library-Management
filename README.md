@@ -26,8 +26,3 @@ admin - library manager
 /admin/view ,to see who took how many books, all fines etc ,to check which books are out of stock (protected route)
 
 
-
-
-mXrUnS9svWZylLRT
-
-DB_URI = "mongodb+srv://dumb13305:mXrUnS9svWZylLRT@cluster0.rxzj569.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
